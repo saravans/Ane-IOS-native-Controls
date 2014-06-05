@@ -1,0 +1,1 @@
+ /Applications/Adobe\ Flash\ Builder\ 4.7/sdks/Flex\ 4.6\ Air\ 13/bin/adt -package -target ane IOSImageAne.ane extension.xml -swc UIView.swc -platform iPhone-ARM library.swf libuicontrols.a
