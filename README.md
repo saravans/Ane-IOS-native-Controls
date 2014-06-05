@@ -12,5 +12,5 @@ i just added one more view in the root view controller.
 
 Soon will update the native navigation controller to the Ane ..
 
-trying some stupid things.....happy coding....
+trying some stupid things.....happy coding.....
 
